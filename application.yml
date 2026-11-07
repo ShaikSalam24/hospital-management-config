@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: hospital-management-system
+
+hms:
+  application:
+    environment: development
+    message: Welcome to Hospital Management System
